@@ -1,1 +1,2 @@
 # odin-recipes
+My goal with this project is to create a book of recipes I think. I have learned how to edit text, add links and images, and format and set-up a webpage. I know that I can do this. I'll write a reflection here when I'm done.
